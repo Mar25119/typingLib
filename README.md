@@ -58,3 +58,4 @@ mypy users_filter.py
 - Позволяют находить ошибки до запуска программы
 - Являются частью современных стандартов Python-разработки (PEP 484)
 
+https://github.com/Mar25119/typingLib/wiki
