@@ -1,3 +1,6 @@
+
+<img width="419" height="104" alt="image" src="https://github.com/user-attachments/assets/c61f644b-187a-4a17-87bb-8ac7fab1cece" />
+
 # typingLib
 
 # Проект: Фильтрация пользователей с аннотациями типов
